@@ -1,2 +1,2 @@
-# Coursera
-:school: Coursera (http://coursera.org/) assignments
+# Coursera :school: 
+Coursera (http://coursera.org/) assignments
