@@ -1,2 +1,2 @@
 # Coursera
-Coursera (http://coursera.com/) assignments
+Coursera (http://coursera.org/) assignments
