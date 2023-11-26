@@ -1,5 +1,6 @@
 /*
- * Coursera/Princeton University Computer Science: Programming with a Purpose week 1 assignment
+ * Coursera/Princeton University Computer Science: Programming with a Purpose
+ * Week 1: HelloWorld.java
  * Lloyd Dilley
  */
 
