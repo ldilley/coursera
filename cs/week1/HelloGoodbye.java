@@ -10,7 +10,7 @@ class HelloGoodbye
   {
     if(args.length != 2)
     {
-      System.out.println("This program requires 2 arguments!");
+      System.err.println("This program requires 2 arguments!");
       System.exit(1);
     }
     System.out.println("Hello " + args[0] + " and " + args[1] + ".");
