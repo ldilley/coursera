@@ -6,7 +6,7 @@
 
 public class RightTriangle
 {
-  public static boolean isRight(int x, int y, int z)
+  private static boolean isRight(int x, int y, int z)
   {
     return x * x + y * y == z * z;
   }

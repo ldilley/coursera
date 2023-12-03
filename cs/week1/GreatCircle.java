@@ -6,9 +6,9 @@
 
 public class GreatCircle
 {
-  final static double EARTH_RADIUS = 6371.0;
+  private final static double EARTH_RADIUS = 6371.0;
 
-  public static double calcDist(double x1, double y1, double x2, double y2)
+  private static double calcDist(double x1, double y1, double x2, double y2)
   {
     return 2 * EARTH_RADIUS * Math.asin(Math.sqrt((Math.pow(Math.sin((x2 - x1) / 2.0), 2) + Math.cos(x1) * Math.cos(x2) * Math.pow(Math.sin((y2 - y1) / 2.0), 2))));
   }
