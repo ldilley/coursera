@@ -16,7 +16,6 @@ public class GreatCircle
   public static void main(String[] args)
   {
     double x1, y1, x2, y2;
-    boolean distance;
 
     if(args.length < 4)
     {
