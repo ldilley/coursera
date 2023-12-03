@@ -6,7 +6,7 @@
 
 public class CMYKtoRGB
 {
-  private static void toRGB(double cyan, double magenta, double yellow, double black)
+  private static void printRGB(double cyan, double magenta, double yellow, double black)
   {
     int white = (int)(1.0 - black);
     int red = (int)(255.0 * white * (1.0 - cyan));
@@ -40,7 +40,7 @@ public class CMYKtoRGB
         System.exit(1);
       }*/
 
-      toRGB(cyan, magenta, yellow, black);
+      printRGB(cyan, magenta, yellow, black);
     }
     catch(NumberFormatException nfe)
     {
