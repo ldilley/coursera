@@ -4,7 +4,7 @@
  * Lloyd Dilley
  */
 
-class GreatCircle
+public class GreatCircle
 {
   final static double EARTH_RADIUS = 6371.0;
 

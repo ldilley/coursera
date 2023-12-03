@@ -4,7 +4,7 @@
  * Lloyd Dilley
  */
 
-class RightTriangle
+public class RightTriangle
 {
   public static boolean isRight(int x, int y, int z)
   {

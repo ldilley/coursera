@@ -4,7 +4,7 @@
  * Lloyd Dilley
  */
 
-class CMYKtoRGB
+public class CMYKtoRGB
 {
   public static void toRGB(double cyan, double magenta, double yellow, double black)
   {
